@@ -1,5 +1,5 @@
 {
-    "name": "nodokaha/conv",
+    "name": "mt-ito/conv",
     "description": "Generate MySQL migration queries from actual DB and DDL",
     "type": "library",
     "license": "MIT",
