@@ -1,12 +1,12 @@
 {
-    "name": "howyi/conv",
+    "name": "nodokaha/conv",
     "description": "Generate MySQL migration queries from actual DB and DDL",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name":  "Hayashi Takuya",
-            "email": "howyi.lq@gmail.com"
+            "name":  "Itou Motoaki",
+            "email": "mt-ito@infiniteloop.co.jp"
         }
     ],
     "scripts": {
