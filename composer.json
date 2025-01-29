@@ -1,5 +1,5 @@
 {
-    "name": "mt-ito/conv",
+    "name": "nodokaha/conv",
     "description": "Generate MySQL migration queries from actual DB and DDL",
     "type": "library",
     "license": "MIT",
@@ -32,7 +32,6 @@
             "no-api": true
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php":             ">=7.1",
         "ext-PDO":         "*",
